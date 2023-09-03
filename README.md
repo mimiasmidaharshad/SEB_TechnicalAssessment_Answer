@@ -35,7 +35,8 @@ Provide step-by-step instructions on how to install or set up the project. Inclu
 
 ## Usage
 
-Explain how to use the test script or any other components of your project. Include command-line examples and any special considerations.
+Common commands to run code include:
+For Python: python script.py or python app.py
 
 ## Examples
 
