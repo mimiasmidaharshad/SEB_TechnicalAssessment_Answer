@@ -2,7 +2,7 @@
 
 # Project Name
 
-This is the test automation script using python.
+SEB Technical Assessment Answer
 
 ## Table of Contents
 
@@ -16,7 +16,18 @@ This is the test automation script using python.
 
 ## Description
 
-Explain what your project is about, its purpose, and any relevant context.
+This is the test automation script using Python for Modern Banking System. All the flows involved are as below :
+
+
+Perform the following flows:
+-	Create a new user
+-	Read the created user
+-	Update the user’s username
+-	Read the updated user
+-	Delete the user
+-	Verify the user is deleted
+
+
 
 ## Prerequisites
 
